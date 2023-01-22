@@ -96,7 +96,7 @@ span{
 .contact-form .row input,
 .contact-form .row textarea{
     position: relative;
-    border: 1px solid rgba(0,0,0,0.2);
+    border: 1px solid f9f9f9;
     color: 1,1,1;
     background: transparent;
     width: 100%;
@@ -140,6 +140,7 @@ span{
 .contact-icon{
     width: 20px;
     margin-right: 40px;
+    background-image: ;
 
 }
 
